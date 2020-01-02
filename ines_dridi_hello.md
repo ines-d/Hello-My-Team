@@ -1,7 +1,10 @@
 Git
 ====
 installation [voir le lien](https://www.atlassian.com/fr/git/tutorials/install-git)
+
 mkdir nom_répertoir
+
+
 cd nom_répertoir
 git clonne http://......../username/le_réferentiel.git (copier l'adresse sur github)
 cd referentiel
